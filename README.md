@@ -1,2 +1,2 @@
 # Bond_Portfolio_Risk
-## load sample_portfolio.csv and perform risk analytics
+load sample_portfolio.csv as provided originally
