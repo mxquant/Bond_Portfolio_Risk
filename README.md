@@ -1,2 +1,2 @@
 # Bond_Portfolio_Risk
-Please load sample_portfolio.csv as provided originally
+sample_portfolio.csv consists of a sample portfolio of Muni bonds
